@@ -1,0 +1,48 @@
+*{
+    background-color: black;
+    color: #fff;
+}
+.creepster-regular {
+    font-family: "Creepster", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+  }
+  
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+    width: 100%;
+  
+}
+
+header, footer {
+    background-color: #e08814;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#madLibOutput {
+    padding: 20px;
+    text-align: center;
+}
+input:focus {
+    background-color: yellow;
+  }
+
+
+
+/* Add more styles based on your creativity and design preferences */
