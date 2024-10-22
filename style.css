@@ -17,8 +17,8 @@ body {
 
 }
 
-.container {
-    width: 100%;
+.story {
+    padding: 10%;
   
 }
 
@@ -39,9 +39,7 @@ footer {
     padding: 20px;
     text-align: center;
 }
-input:focus {
-    background-color: yellow;
-  }
+
 
 
 
